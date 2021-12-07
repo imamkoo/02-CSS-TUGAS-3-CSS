@@ -1,0 +1,17 @@
+p.pertama {
+    background-color: orange ;
+}
+p.kedua {
+    color: white;
+    background-color: blue;
+}
+p.ketiga {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 1.5em;
+}
+p.empat {
+    font-weight: bold;
+    background-color: gray;
+    font-size: 1.5em;
+}
